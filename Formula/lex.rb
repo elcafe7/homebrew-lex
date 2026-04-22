@@ -1,8 +1,8 @@
 class Lex < Formula
   desc "The Elegant Bible Terminal - CLI tool for Bible study"
   homepage "https://github.com/elcafe7/lex"
-  url "https://github.com/elcafe7/lex/archive/refs/tags/v2.3.3-Nav.tar.gz"
-  sha256 "57f07d3a4991af7b443a79725e7daa2276a6ec7a4371304ef33a0c0a44a1f6bb"
+  url "https://github.com/elcafe7/lex/archive/refs/tags/v2.3.4.tar.gz"
+  sha256 "22282518b978f671467e1a04cbb8961598b7dabb6821001589fbd49905ad71f3"
   license "MIT"
 
   depends_on "python@3.12"
